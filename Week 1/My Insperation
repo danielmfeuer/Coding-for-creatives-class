@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Things To Know</title>
+
+	</head>
+
+	<style> 
+		body {background-color:black; text-align: center}
+		h1 {color: white; text-align: center; font-family: moon;}
+		h2 {color: white; text-align: center; font-family: moon;}
+		p {color: white; text-align: center; font-family: moon;}
+		ul{color: white; font-family: moon}
+		</style>
+	<body><h1>My Inspiration </h1>
+		
+
+		<p>I take inspiration from everywhere. But I think that in this day and age its so much easier to find so many things that sometimes its impossible to know what is good, great or terrible. And more importaintly why, which is why I love to go to muesams and then study the artists I've seen that day to better grasp what the purpose of their art is and what its doing to change the playing feild.  </p>
+		
+		<h2>My Favorite Artists</h2>
+		<ul>
+             <li>Jean Michael Basquiat</li>
+             <li>Henri Mattese</li>
+             <li>Pablo Picasso</li>
+
+		</ul>
+	</body>
+				
+</html>		
+		
