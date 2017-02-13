@@ -2,24 +2,23 @@ var x = 0;
 var y = 0;
 var speed = 3;
 
-function setup() {
+function setup(){
 	createCanvas(600, 400);
 }
 
-function draw() {
-	
+function draw(){
 	background(0);
-		if (mouseIsPressed) {
-			background(255)
+		if(mouseIsPressed){
+			background(random)
 		}
-	fill(x, y, 20);
-	ellipse(x, y, mousex, mousey);
+	fill(mousex, mouseY, 20);
+	ellipse(x, y, mouseX, mouseY);
 
-	if (y > height || y < 0) {
+	if(mouseY > height || y < 0) {
 		speed = speed * -1
 	};
 
-	if (x > width || x < 0) {
+	if(mouseX > width || x < 0) {
 		speed = speed * -1
 	};
 	
